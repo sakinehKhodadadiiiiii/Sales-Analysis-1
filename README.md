@@ -1,5 +1,5 @@
 # Sales-Analysis-1
-starting by cleaning our data. Tasks during this section include:
+We start by cleaning our data. Tasks during this section include:
 
 . Drop NaN values from DataFrame
 
